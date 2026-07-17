@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Seguridad rural",
+  "descripcion": "Reporto la presencia de un retén de personas desconocidas en la vía principal de la vereda que está cobrando peajes ilegales y bloqueando el paso de los vecinos."
+}
+
+Ejemplo 2:
+{
+  "tipo": "Orden público",
+  "descripcion": "Quiero informar sobre una fuerte alteración a la convivencia, pues hay un grupo de personas ajenas a la comunidad consumiendo alcohol y haciendo disparos al aire cerca a la caseta comunal."
+}
