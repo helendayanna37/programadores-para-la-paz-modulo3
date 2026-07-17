@@ -1,0 +1,4 @@
+{
+  "tipo": "Afectación ambiental",
+  "descripcion": "La red juvenil del corregimiento de Pance reporta un botadero de basura improvisado cerca al río, afectando el agua y el territorio de la comunidad."
+}

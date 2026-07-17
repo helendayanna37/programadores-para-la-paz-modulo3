@@ -1,0 +1,9 @@
+Al hacer la petición, el servidor te devuelve esta respuesta exacta:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Helen",
+  "mensaje": "Hola comunidad"
+}
+
+¿Qué significa esto? Básicamente, el servidor agarró los datos que le mandaste (el nombre y el mensaje) y te respondió con un mensaje de confirmación, devolviéndote esa misma información para demostrar que la recibió sin problemas.
